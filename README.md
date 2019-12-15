@@ -17,7 +17,7 @@ $ npm i node-jsonstore
 or
 
 ```
-$ yarn install node-jsonstore
+$ yarn add node-jsonstore
 ```
 
 #### Initiate with your token

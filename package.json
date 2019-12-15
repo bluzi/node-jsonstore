@@ -1,6 +1,6 @@
 {
   "name": "node-jsonstore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dependency-less, official jsonstore library for Node",
   "main": "index.js",
   "scripts": {
