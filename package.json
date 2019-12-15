@@ -1,0 +1,22 @@
+{
+  "name": "node-jsonstore",
+  "version": "1.0.0",
+  "description": "Dependency-less, official jsonstore library for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluzi/node-jsonstore.git"
+  },
+  "author": "bluzi <eliran013@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluzi/node-jsonstore/issues"
+  },
+  "homepage": "https://www.jsonstore.io/",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
